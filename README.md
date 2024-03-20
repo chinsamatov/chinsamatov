@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chinsamatov
 - 👀 I’m interested in Cloud, SRE, DevOps
-- 🌱 I’m currently learning new concepts in Terraform, Linux
+- 🌱 I’m currently learning new concepts in DevOps toolings  
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me ...
 
